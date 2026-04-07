@@ -44,8 +44,8 @@ Professional software developer with strong expertise in **Java** and **Python**
 ### Connect with me
 
 - GitHub: [nishan9813](https://github.com/nishan9813)
-- LinkedIn: _add your link_
-- Email: _add your email_
+- LinkedIn: ...
+- Email: magarnishan382@gmail.com
 
 ---
 
